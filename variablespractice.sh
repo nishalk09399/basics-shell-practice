@@ -10,7 +10,7 @@ c=$((x+b))
 
 echo "sum of the two variables are: $c"
 
-read 'what do you want to print : ' Nishal
+read -p 'what do you want to print : ' Nishal
 echo $Nishal
 
 
