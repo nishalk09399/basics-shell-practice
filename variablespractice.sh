@@ -27,7 +27,7 @@ then
 echo "the statement is correct"
 else
 echo "it is incorrect"
-
+fi
 
 
 
