@@ -13,7 +13,7 @@ echo "sum of the two variables are: $c"
 # read -sp 'what do you want to print : ' Nishal
 # echo $Nishal-
 
-JUST=[bmw, benz, audi, ferrari]
+JUST=[bmw, benz, audi, ferrari];
 
 read -a JUST
 echo "${JUST}"
